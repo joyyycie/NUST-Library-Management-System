@@ -13,9 +13,9 @@ Designed by NUST’s Computer Science students _Rejoice Amutenya, Kuzavi Murangi
 
 **3.	System**: Mainly responsible for sending notifications for overdue books, canceled reservations, etc.
 
-****Data Flow Diagram**
+**Data Flow Diagram**
 
-**Admin login****
+**Admin login**
 
 After entering to the home page of the website, librarian can choose the ADMIN LOGIN option where they are asked to enter username and password, and if he/she is a valid user then a login page will be displayed.
 
